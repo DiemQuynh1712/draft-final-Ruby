@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  date_of_birth: 2023-05-22
+  phone_number: MyString
+  gmail: MyString
+  check_in_date: 2023-05-22
+  number_of_nights: 1
+  num_adults: 1
+  num_children: 1
+  roomtype: one
+  service: MyString
+
+two:
+  name: MyString
+  date_of_birth: 2023-05-22
+  phone_number: MyString
+  gmail: MyString
+  check_in_date: 2023-05-22
+  number_of_nights: 1
+  num_adults: 1
+  num_children: 1
+  roomtype: two
+  service: MyString
